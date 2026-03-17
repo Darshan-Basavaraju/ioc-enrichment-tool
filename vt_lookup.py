@@ -1,7 +1,7 @@
 import requests
 import sys
 
-api_key = "195209d6b54f33dcad14cacc619ad0a58ddf50421d78c611a2e6051dbb6b4cc5"
+api_key = "YOUR_API_KEY_HERE"
 
 # Take domain from command line
 domain = sys.argv[1]
